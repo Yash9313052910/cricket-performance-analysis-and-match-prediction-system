@@ -18,3 +18,10 @@ and provides team performance analysis.
 
 ## Note
 Dataset is not included due to GitHub size limits.
+
+## Tech Stack
+
+- Python
+- Streamlit
+- Pandas
+- Scikit-learn
