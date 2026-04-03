@@ -25,3 +25,7 @@ Dataset is not included due to GitHub size limits.
 - Streamlit
 - Pandas
 - Scikit-learn
+
+## Project Demo
+
+![App Screenshot](screenshot.png)
