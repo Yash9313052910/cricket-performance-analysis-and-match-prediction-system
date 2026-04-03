@@ -1,4 +1,4 @@
-# Cricket Performance Analysis and Match Prediction System
+# 🏏 Cricket Performance Analysis & Match Prediction System
 
 This project predicts IPL match results using machine learning 
 and provides team performance analysis.
